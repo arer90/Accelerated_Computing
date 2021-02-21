@@ -1,8 +1,8 @@
 /*
 
-https://github.com/skyquasar/Become_professional_in_CUDA
+//Github - https://github.com/arer90/Accelerated_Computing.git
 
-Section 1. Understanding about CUDA programming(Lv1)
+Section 1. Understanding about CUDA programming
 phase   1. 2D matrix multiplication (= 2DmatrixMul.cu)  // CPU/GPU/SHARED GPU/cuLBAS (cuBLAS Not Finished.)
 
 */
