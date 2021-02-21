@@ -1,4 +1,4 @@
-//Github - https://github.com/skyquasar/Become_professional_in_CUDA
+//Github - https://github.com/arer90/Accelerated_Computing.git
 
 /*
 	Section 0. Basic CUDA.
